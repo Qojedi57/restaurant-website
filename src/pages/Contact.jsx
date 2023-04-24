@@ -17,7 +17,11 @@ import {
 const Contact = () => {
   return (
     <Layout>
-      <Box sx={{ my: 5, ml: 10, "& h4": { fontWeight: "bold", mb: 2 } }}>
+      <Box sx={{ my: 5, ml: 5, "& h4": { fontWeight: "bold", mb: 2, "& p":{
+            textAlign:"justify",
+            fontSize:20,
+            fontFamily:"BlinkMacSystemFont",
+        },} }}>
         <Typography variant="h4">Contact Us</Typography>
         <p>
           Need to reach us? Call at the number provided or feel free to send a
