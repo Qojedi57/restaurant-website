@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from './../components/Layout/Layout';
 import {Box, Typography} from '@mui/material';
+import { RoundaboutLeftOutlined, RoundaboutLeftTwoTone } from '@mui/icons-material';
 
 const About = () => {
   return (
@@ -13,10 +14,12 @@ const About = () => {
           "& h4":{
             fontWeight:'bold',
             my:2,
-            fontSize:"2rem",
+            fontSize:"3rem",
           },
           "& p":{
             textAlign:"justify",
+            fontSize:20,
+            fontFamily:"BlinkMacSystemFont",
         },
         "@media (max-width:600px)":{
           mt:0,

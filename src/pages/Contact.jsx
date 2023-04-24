@@ -52,12 +52,31 @@ const Contact = () => {
               <TableRow>
                 <TableCell>
                   <CallIcon sx={{ color: "green", pt: 1 }} /> 562.485.2300
+                  DOWNEY CA
                 </TableCell>
               </TableRow>
               <TableRow>
                 <TableCell>
                   <MailIcon sx={{ color: "skyblue", pt: 1 }} />{" "}
                   downey@poachedkitchen.com
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>
+                  <MailIcon sx={{ color: "skyblue", pt: 1 }} />{" "}
+                  hello@poachedkitchen.com ANAHIEM HILLS CA
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>
+                  <CallIcon sx={{ color: "green", pt: 1 }} /> 949.860.1573
+                  IRVINE CA
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>
+                  <MailIcon sx={{ color: "skyblue", pt: 1 }} />{" "}
+                  irvine@poachedkitchen.com
                 </TableCell>
               </TableRow>
             </TableBody>

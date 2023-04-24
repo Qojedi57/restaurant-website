@@ -1,4 +1,5 @@
 import React from "react";
+import { IconButton } from '@mui/material';
 import GitHubIcon from "@mui/icons-material/GitHub";
 import WebIcon from "@mui/icons-material/Web";
 import { Box, Typography } from "@mui/material";
@@ -24,8 +25,14 @@ const Footer = () => {
           }}
         >
           {/* icons */}
-          <GitHubIcon />
-          <WebIcon />
+          <div>
+          <IconButton href="https://github.com/Qojedi57/restaurant-website">
+            <GitHubIcon />
+            </IconButton>
+            <IconButton href="https://www.poachedkitchen.com/">
+            <WebIcon/>
+            </IconButton>
+            </div>
         </Box>
         <Typography
           variant="h5"
