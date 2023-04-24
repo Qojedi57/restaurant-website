@@ -31,7 +31,7 @@ const About = () => {
         >
         <Typography variant="h4">Welcome to Poached Kitchen</Typography>
         <p>
-        This is an Unofficial website the original link to the website can be found on the footer of this website.Poached Kitchen began the journey and began early 2017. When the restaurant excitedly opened their kitchen doors in Downey. This brunch restaurant had a goal in mind to bring a new style and concept to breakfast, brunch, and lunch dining to the Downey Restaurant scene plus other two locations Anaheim and Irvine.As for the short years that the restaurant has been open, there is a tremendous amount of love and support, and an overwhelming sense of welcome from the community. Poached Neighborhood Kitchen has seen thousands of hungry breakfast & lunch diners since its inception, which has allowed to build friendships with neighbors-turned-customers who return week after week. 
+        This is an Unofficial website the original link to the website can be found on the footer of this website.Poached Kitchen began its journey early 2017. When the restaurant excitedly opened their kitchen doors in Downey CA. This brunch restaurant had a goal in mind to bring a new style and concept to breakfast, brunch, and lunch dining to the Downey Restaurant scene plus other two locations Anaheim and Irvine.As for the short years that the restaurant has been open, there is a tremendous amount of love and support, and an overwhelming sense of welcome from the community. Poached Neighborhood Kitchen has seen thousands of hungry breakfast & lunch diners since its inception, which has allowed to build friendships with neighbors-turned-customers who return week after week. 
         </p>
         <br />
         <p>
