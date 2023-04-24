@@ -19,8 +19,8 @@
   align-items: center;
   font-weight: bold;
   font-size: 70px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", sans-serif;
+  color:goldenrod;
 }
 
 .home .headerContainer p {
@@ -28,7 +28,7 @@
   padding: 0;
   font-size: 40px;
   font-weight: lighter;
-  color: black;
+  color:black;
 }
 
 .headerContainer button {
@@ -72,7 +72,7 @@
     font-size:40px;
     height:30px;
     margin:30px 0px;
-    color:white;
+    color:goldenrod;
   }
   .home .headerContainer p{
     font-size:30px;
