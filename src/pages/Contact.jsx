@@ -52,11 +52,33 @@ const Contact = () => {
                 </TableCell>
               </TableRow>
             </TableHead>
+            <TableRow>
+                <TableCell
+                  sx={{ bgcolor: "grey", color: "white" }}
+                  align="left"
+                >
+                  Phone
+                </TableCell>
+              </TableRow>
             <TableBody>
               <TableRow>
                 <TableCell>
                   <CallIcon sx={{ color: "green", pt: 1 }} /> 562.485.2300
                   DOWNEY CA
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>
+                  <CallIcon sx={{ color: "green", pt: 1 }} /> 949.860.1573
+                  IRVINE CA
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell
+                  sx={{ bgcolor: "grey", color: "white" }}
+                  align="left"
+                >
+                  Email
                 </TableCell>
               </TableRow>
               <TableRow>
@@ -71,12 +93,7 @@ const Contact = () => {
                   hello@poachedkitchen.com ANAHIEM HILLS CA
                 </TableCell>
               </TableRow>
-              <TableRow>
-                <TableCell>
-                  <CallIcon sx={{ color: "green", pt: 1 }} /> 949.860.1573
-                  IRVINE CA
-                </TableCell>
-              </TableRow>
+              
               <TableRow>
                 <TableCell>
                   <MailIcon sx={{ color: "skyblue", pt: 1 }} />{" "}
